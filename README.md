@@ -1,5 +1,5 @@
-Hi there, I'm Shalitha. 👋
-(Software Engineering Undergraduate Student)
+#Hi there, I'm Shalitha. 👋
+###(Software Engineering Undergraduate Student)
 
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Node js
