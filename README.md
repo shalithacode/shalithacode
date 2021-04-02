@@ -1,18 +1,19 @@
 <br />
 
-## Hello there, I'm Shamoda Jayasekara | [ceylon-dev][website] 👋
+## Hello there, I'm Shalitha Lakruwan 👋
+### (Software Engineering Undergraduate) 
 
 
 ### I'm a Full-Stack Developer!!
 
-> *An enthusiastic full stack developer from Sri Lanka. I'm passionate about building excellent software solutions that improve the lives of those around me. I have done work in full stack web development, mobile applications development, software development and database management. Primarily I'm working with Javascript frameworks to build awesome web, mobile and standalone applications. Take a look around to know more about me and the stuff I've worked on.*
+> *An enthusiastic full stack developer from Sri Lanka. I'm passionate about building excellent software solutions that improve the lives of those around me. I have done work in full stack web development, mobile applications development, software development and database management. Primarily I'm working with JavaScript frameworks to build awesome web, mobile and standalone applications. Strong background in object-oriented programming concepts, data structures and algorithms.*
 
 <br />
 
-[![Shamoda's github stats](https://github-readme-stats.vercel.app/api?username=shamoda&show_icons=true)](https://github.com/shamoda)  
+[![Shalithacode's github stats](https://github-readme-stats.vercel.app/api?username=shalithacode&show_icons=true)](https://github.com/shalithacode)  
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamoda&layout=compact)](https://github.com/shamoda)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shalithacode&layout=compact)](https://github.com/shalithacode)  
 
 
 
@@ -38,10 +39,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="ceylon-dev.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Shamoda | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Shamoda | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Shamoda | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shalithalakruwan1998@gmail.com)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shalitha-lakruwan/)
+[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/shalitha.lakruwan.58/)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/ShalithaLakruw1)
 
 <br  />
 <br  />
@@ -49,10 +50,5 @@
 
 ---
 
-
-[website]: https://ceylon-dev.com
-[facebook]: https://www.facebook.com/shamodajayasekara/
-[instagram]: https://www.instagram.com/shamoda_jayasekara/
-[linkedin]: https://www.linkedin.com/in/shamoda-jayasekara/
 
 
