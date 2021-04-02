@@ -1,4 +1,4 @@
-<br />
+<br  />
 
 ## Hello there, I'm Shalitha Lakruwan 👋
 ### (Software Engineering Undergraduate) 
@@ -6,7 +6,7 @@
 
 ### I'm a Full-Stack Developer!!
 
-> *An enthusiastic full stack developer from Sri Lanka. I'm passionate about building excellent software solutions that improve the lives of those around me. I have done work in full stack web development, mobile applications development, software development and database management. Primarily I'm working with JavaScript frameworks to build awesome web, mobile and standalone applications. Strong background in object-oriented programming concepts, data structures and algorithms.*
+> *An enthusiastic full stack developer from Sri Lanka. I'm passionate about building excellent software solutions that improve the lives of those around me. I have done work in full stack web development, mobile applications development, software development and database management. Primarily I'm working with JavaScript frameworks to build awesome web, mobile and standalone applications. Strong background in object-oriented programming concepts, data structures and algorithms.* 😃
 
 <br />
 
