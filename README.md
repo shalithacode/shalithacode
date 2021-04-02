@@ -1,5 +1,4 @@
-<br  />
-<br  />
+
 ## Hello there, I'm Shalitha Lakruwan 👋
 ### (Software Engineering Undergraduate) 
 
