@@ -9,7 +9,7 @@
 > *An enthusiastic full stack developer from Sri Lanka. I'm passionate about building excellent software solutions that improve the lives of those around me. I have done work in full stack web development, mobile applications development, software development and database management. Primarily I'm working with JavaScript frameworks to build awesome web, mobile and standalone applications. Strong background in object-oriented programming concepts, data structures and algorithms.* 😃
 
 <br />
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shalithacode&label=Profile%20views&color=0e75b6&style=flat" alt="shalithacode" /> </p>
 [![Shalithacode's github stats](https://github-readme-stats.vercel.app/api?username=shalithacode&show_icons=true)](https://github.com/shalithacode)  
 
 
