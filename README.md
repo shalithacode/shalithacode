@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Shalitha Lakruwan</h1>
-<h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
+<h3 align="center">A passionate undergraduate full-stack developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e476abq314vkz0yo7p4zdztboysztf6d4qxem38kaq4&rid=giphy.gif">
 
 <!-- > *An enthusiastic full stack developer from Sri Lanka. I'm passionate about building excellent software solutions that improve the lives of those around me. I have done work in full stack web development, mobile applications development, software development and database management. Primarily I'm working with JavaScript frameworks to build awesome web, mobile and standalone applications. Strong background in object-oriented programming concepts, data structures and algorithms.* 😃 -->
@@ -15,6 +15,10 @@
 - 📫 How to reach me **shalithalakruwan1998@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
+
+- 😄 Pronouns ** He/Him**
+
+- 👀 Looking for **colloborate with backend developers**
 
 <br />
 
