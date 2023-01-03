@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e476abq314vkz0yo7p4zdztboysztf6d4qxem38kaq4&rid=giphy.gif">
 
 <!-- > *An enthusiastic full stack developer from Sri Lanka. I'm passionate about building excellent software solutions that improve the lives of those around me. I have done work in full stack web development, mobile applications development, software development and database management. Primarily I'm working with JavaScript frameworks to build awesome web, mobile and standalone applications. Strong background in object-oriented programming concepts, data structures and algorithms.* 😃 -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shalithacode&label=Profile%20views&color=0e75b6&style=flat" alt="shalithacode" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shalithacode&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="shalithacode" /> </p>
 
 - 🔭 I’m currently working on **Shop App**
 
