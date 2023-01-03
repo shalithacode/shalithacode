@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I am Funny**
 
-- 😄 Pronouns ** He/Him**
+- 😄 Pronouns **He/Him**
 
 - 👀 Looking for **colloborate with backend developers**
 
